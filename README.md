@@ -1,6 +1,6 @@
 # React Native State Management with Redux Toolkit: A Practical Guide
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68b1307d06ff897bde5b1e0f/react-native-state-management-with-redux-toolkit-a-practical-guide).
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
